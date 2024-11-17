@@ -1,4 +1,5 @@
-# 👋 OpenCV Test
+# 👋 Face Recognition
+This app is a small test into OpenCV.
 
 ### 📋Aims of App
 
