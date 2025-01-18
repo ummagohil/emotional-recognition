@@ -7,15 +7,25 @@ This app is a small test into OpenCV. The end result of this app will be to be a
 
 ### 👩‍💻Technical Details
 
+- React
+- TypeScript
+- Shadcn/UI
+- Next.js
 - Python
 - OpenCV
-- Face Recognition
+- Hugging Face
 
 ### 🔧How to Run the App
 
 `pip install opencv-python face_recognition`
 
 `python facial_recognition.py`
+
+`git clone https://github.com/ummagohil/emotional-recognition-fe.git`
+
+### 👀View App
+[https://ligatures-in-languages.vercel.app/
+](https://emotions-recognition.vercel.app/)
 
 ### 💭Future Improvements
 
