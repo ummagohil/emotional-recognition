@@ -1,4 +1,4 @@
-# 👋 Face Recognition
+# 👋 Emotional Recognition
 This app is a small test into OpenCV. The end result of this app will be to be able to map facial expressions to words to colours.
 
 ### 📋Aims of App
