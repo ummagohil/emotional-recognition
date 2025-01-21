@@ -24,8 +24,7 @@ This app is a small test into OpenCV. The end result of this app will be to be a
 `git clone https://github.com/ummagohil/emotional-recognition-fe.git`
 
 ### 👀View App
-[https://ligatures-in-languages.vercel.app/
-](https://emotions-recognition.vercel.app/)
+https://emotions-recognition.vercel.app/
 
 ### 💭Future Improvements
 
