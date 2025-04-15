@@ -1,5 +1,5 @@
 # 👋 Emotional Recognition
-This app is a small test into OpenCV. The end result of this app will be to be able to map facial expressions to words to colours.
+This app is a small test into OpenCV. This app maps facial expressions to colours.
 
 ### 📋Aims of App
 
@@ -12,21 +12,11 @@ This app is a small test into OpenCV. The end result of this app will be to be a
 - Shadcn/UI
 - Next.js
 - Python
-- OpenCV
 - Hugging Face
 
-### 🔧How to Run the App
-
-`pip install opencv-python face_recognition`
-
-`python facial_recognition.py`
-
-`git clone https://github.com/ummagohil/emotional-recognition-fe.git`
-
 ### 👀View App
-https://emotions-recognition.vercel.app/
+[emotional recognition app
+](https://facial-colour-recognition-app.vercel.app/)
 
-### 💭Future Improvements
-
-- Read facial expressions and map them to words/colours
-- A UI to display user input and output of colours mapped to facial expressions 
+### 🗒️Notes
+This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev
