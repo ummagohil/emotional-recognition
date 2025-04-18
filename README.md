@@ -14,9 +14,12 @@ This app is a small test into OpenCV. This app maps facial expressions to colour
 - Python
 - Hugging Face
 
+### 💻 Code
+[emotional recognition app code](https://github.com/ummagohil/facial-colour-recog-code)
+
 ### 👀View App
 [emotional recognition app
 ](https://facial-colour-recognition-app.vercel.app/)
 
 ### 🗒️Notes
-This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev
+hello@umma.dev
