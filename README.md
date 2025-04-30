@@ -1,4 +1,4 @@
-# 👋 Emotional Recognition
+# 🙂 Emotional Recognition
 This app is a small test into OpenCV. This app maps facial expressions to colours.
 
 ### 📋Aims of App
